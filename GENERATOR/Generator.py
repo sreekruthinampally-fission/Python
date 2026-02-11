@@ -16,7 +16,7 @@ def num():
 for i in num():
     print(i)
 
-sq = (x*x for x in range(1,6))
+sq = (x*x for x in range(1,6)) #generator expression
 for val in sq:
     print(val)
 
@@ -29,4 +29,5 @@ for n in fun(3):
 
 gen = (x*x for x in range(3))
 print(list(gen))
+
 
