@@ -1,6 +1,6 @@
 import csv
 
-filename = "stud.csv"
+filename = "Stud.csv"
 
 with open(filename, "w", newline="") as file:
     writer = csv.writer(file)
@@ -23,3 +23,4 @@ with open(filename, "r") as file:
         print(row)
 
 file.close() 
+
