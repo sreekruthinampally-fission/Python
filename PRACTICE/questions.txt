@@ -1,0 +1,26 @@
+1. print even numbers between 1 to 50
+2. Print the highest number within a list of numbers.
+3. Check if you are able to print the below pattern
+  *
+ **
+***
+****
+*****
+4. Find highest number in a list
+5. Fibonacci series
+6. Palindrome check
+7. Factorial
+8. Count digits in a number
+9. Prime number check
+10. "Pattern printing
+
+*
+**
+***
+****
+*****
+"
+11. Reverse a string
+12. Count frequency of characters
+13. Find duplicates in a list
+14. Sum of digits
